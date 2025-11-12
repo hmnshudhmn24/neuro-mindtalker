@@ -1,0 +1,1 @@
+{ "audio_model": "openai/whisper-small", "vision_model": "openai/clip-vit-base-patch32", "text_model": "google/flan-t5-base" }
